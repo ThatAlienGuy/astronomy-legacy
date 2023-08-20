@@ -1,0 +1,1 @@
+text = "The spacecraft bus provides the necessary support functions for the \n operation of the Webb Observatory." 

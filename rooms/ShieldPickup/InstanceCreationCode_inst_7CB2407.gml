@@ -1,0 +1,1 @@
+text = "Okay now we have all the missing parts but there is a big problem the sun! \n Its heat and energy will make problem for us Although we need it. Use \n all the powers the science give for you and lets solve some problems."

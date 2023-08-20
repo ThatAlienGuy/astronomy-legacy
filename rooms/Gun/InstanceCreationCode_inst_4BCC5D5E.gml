@@ -1,0 +1,1 @@
+text = "The purpose of Webb’s primary mirror is to collect \n infrared and visible light traveling through space.\n Webb’s primary mirror intercepts red \n and infrared light and reflects it onto a smaller \n secondary mirror which then directs the light into \n the scientific instruments where it is recorded";
