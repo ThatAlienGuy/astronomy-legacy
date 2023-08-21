@@ -35,7 +35,16 @@ else
 //Calculate Movement
 var move = key_right - key_left;
 
-hsp = move * walksp;
+//hsp = move * walksp;
+
+//This if code I added make slide effect
+if (move != 0)
+{
+	hsp = move * walksp
+}
+hsp = 0.8 * hsp;
+
+
 
 vsp = vsp + grv;
 
@@ -58,6 +67,7 @@ if (place_meeting(x+hsp,y,Owall))
  }
  hsp = 0;
 }
+
 x = x + hsp;
 
 //vertical Collision
