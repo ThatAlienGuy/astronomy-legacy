@@ -37,7 +37,7 @@ recoil = 5;
 	with (instance_create_layer(x+10,y,"Bullet",Obullet))
    {
 	speed = 40;
-	direction = other.image_angle + random_range(-3,3);
+	direction = other.image_angle + random_range(-1,1);
 	image_angle = direction;
    }
 }

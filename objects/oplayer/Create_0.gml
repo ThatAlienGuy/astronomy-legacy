@@ -11,7 +11,6 @@ hit_cool_down = 120
 shields_cool_Down = 0;
 key_sheild = 0;
 audio_sound_pitch(Sn_shot,0.8);
-word = "Health";
 jumps= 0 ;
 jumps_max= 2;
 base_jump = 1;

@@ -164,6 +164,9 @@ if (place_meeting(x,y,Oenemy)) and (hit_cool_down = 0)
 	}
 hit_cool_down--;
 hit_cool_down = max(hit_cool_down,0)
-if (hsp != 0) image_xscale = sign(hsp);
+if instance_exists(Ogun)
+{image_xscale = Ogun.image_yscale}
+else
+{if (hsp != 0) image_xscale = sign(hsp);}
 //dead restart
 
