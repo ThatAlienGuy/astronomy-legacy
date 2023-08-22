@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Inputs",
+    "path": "folders/UX/Inputs.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "UI_input_mainmenu",
-    "path": "sprites/UI_input_mainmenu/UI_input_mainmenu.yy",
+    "name": "S_UI_input_mainmenu",
+    "path": "sprites/S_UI_input_mainmenu/S_UI_input_mainmenu.yy",
   },
   "spriteMaskId": null,
   "visible": true,

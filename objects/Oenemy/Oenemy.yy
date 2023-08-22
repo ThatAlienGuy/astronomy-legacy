@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
-    "path": "folders/Objects.yy",
+    "path": "folders/Enemy/Objects.yy",
   },
   "parentObjectId": {
     "name": "pShootable",

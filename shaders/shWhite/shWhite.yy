@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "shWhite",
   "parent": {
-    "name": "Shaders",
-    "path": "folders/Shaders.yy",
+    "name": "Enemy",
+    "path": "folders/Enemy.yy",
   },
   "type": 1,
 }

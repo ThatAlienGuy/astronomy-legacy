@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "TileSet2",
   "autoTileSets": [
-    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_2","closed_edge":false,"tiles":[
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","closed_edge":false,"tiles":[
         47,
         1,
         2,
@@ -62,12 +62,12 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "name": "TileSets",
+    "path": "folders/Levels/TileSets.yy",
   },
   "spriteId": {
-    "name": "Stiles2",
-    "path": "sprites/Stiles2/Stiles2.yy",
+    "name": "Stileset2",
+    "path": "sprites/Stileset2/Stileset2.yy",
   },
   "spriteNoExport": true,
   "textureGroupId": {

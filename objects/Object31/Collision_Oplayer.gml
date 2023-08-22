@@ -1,4 +1,0 @@
-with (Oplayer)
-{
-	hp--
-}

@@ -157,7 +157,7 @@
   "maintainGms1Font": false,
   "parent": {
     "name": "Fonts",
-    "path": "folders/Fonts.yy",
+    "path": "folders/UX/Fonts.yy",
   },
   "pointRounding": 0,
   "ranges": [

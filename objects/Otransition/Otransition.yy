@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Logic",
+    "path": "folders/Player/Objects/Logic.yy",
   },
   "parentObjectId": null,
   "persistent": true,

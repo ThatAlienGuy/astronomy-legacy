@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Pre-BossFight",
+    "path": "folders/BossFight/Pre-BossFight.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "james_webb_anim_1",
-    "path": "sprites/james_webb_anim_1/james_webb_anim_1.yy",
+    "name": "Sjames_webb_anim_1",
+    "path": "sprites/Sjames_webb_anim_1/Sjames_webb_anim_1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

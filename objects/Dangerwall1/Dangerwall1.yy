@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Walls",
+    "path": "folders/Levels/Walls.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Dangerwall",
-    "path": "sprites/Dangerwall/Dangerwall.yy",
+    "name": "Sdangerwall",
+    "path": "sprites/Sdangerwall/Sdangerwall.yy",
   },
   "spriteMaskId": null,
   "visible": false,

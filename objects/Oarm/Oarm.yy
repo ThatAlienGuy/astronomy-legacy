@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Boss",
+    "path": "folders/BossFight/Boss.yy",
   },
   "parentObjectId": {
     "name": "pShootable",

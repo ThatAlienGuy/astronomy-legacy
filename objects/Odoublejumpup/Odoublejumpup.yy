@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "PowerUps",
+    "path": "folders/Player/Objects/PowerUps.yy",
   },
   "parentObjectId": null,
   "persistent": false,

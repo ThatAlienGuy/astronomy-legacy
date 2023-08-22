@@ -1,20 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obigenemy",
-  "eventList": [],
-  "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Oenemy","path":"objects/Oenemy/Oenemy.yy",},"propertyId":{"name":"size","path":"objects/Oenemy/Oenemy.yy",},"value":"2",},
+  "name": "Omain_title",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
+  "managed": true,
+  "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Enemy/Objects.yy",
+    "name": "UX",
+    "path": "folders/UX.yy",
   },
-  "parentObjectId": {
-    "name": "Oenemy",
-    "path": "objects/Oenemy/Oenemy.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Senemy",
-    "path": "sprites/Senemy/Senemy.yy",
+    "name": "Main_Title",
+    "path": "sprites/Main_Title/Main_Title.yy",
   },
   "spriteMaskId": null,
   "visible": true,
