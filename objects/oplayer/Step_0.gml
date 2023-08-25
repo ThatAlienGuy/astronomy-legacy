@@ -42,7 +42,7 @@ if (move != 0)
 {
 	hsp = move * walksp
 }
-hsp = 0.8 * hsp;
+hsp = 0.7 * hsp;
 
 
 
